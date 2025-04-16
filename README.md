@@ -11,7 +11,7 @@ This repository contains a **Flask-based web application** designed to detect th
 ---
 ## 🎬 Detection Demo
 
-📽️ [Click here to view the Coconut Detection Demo](static/demo/coconut_detection_demo.mp4)
+📽️ [Click here to view the Coconut Detection Demo](static/coconut_detect.mp4)
 
 
 ---
