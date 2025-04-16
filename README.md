@@ -9,7 +9,12 @@ This repository contains a **Flask-based web application** designed to detect th
 - 📡 **Real-Time Webcam Feed** – Perform live detection using your device’s webcam.
 
 ---
+## 🎬 Detection Demo
 
+📽️ [Click here to view the Coconut Detection Demo](static/demo/coconut_detection_demo.mp4)
+
+
+---
 ## 🚀 Features
 
 - ✅ **Image & Video Analysis**: Upload images or videos to identify the maturity stage of coconuts (Tender, Middle, Dry).
