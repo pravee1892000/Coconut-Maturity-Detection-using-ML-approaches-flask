@@ -1,23 +1,38 @@
-# Coconut-Maturity-Detection-using-ML-approaches-flask
-## Overview
+# 🥥 Coconut Maturity Detection using ML Approaches (Flask)
 
-This repository contains a Flask web application for detecting the maturity stage of coconuts. The app supports:
+## 🌟 Overview
 
-- **Image Upload**: Analyze static images for cocont maturity  detection.
-- **Video Processing**: Process video files to detect different stages of coconut maturity.
-- **Real-Time Webcam Feed**: Analyze live webcam feeds to determine coconut maturity in real-time.
-## Features
+This repository contains a **Flask-based web application** designed to detect the **maturity stage of coconuts** using Machine Learning techniques. The application supports:
 
-- **Image and Video Analysis**: Upload images or videos to check for coconut maturity levels.
-- **Live Webcam Monitoring**: View and analyze real-time webcam feeds to automatically detect coconut maturity.
-- **Advanced Detection Algorithms**: Utilizes robust detection and classification techniques for accurate identification of coconut stages.
+- 📷 **Image Upload** – Analyze static images for coconut maturity detection.  
+- 🎥 **Video Processing** – Detect coconut maturity levels from uploaded video files.  
+- 📡 **Real-Time Webcam Feed** – Perform live detection using your device’s webcam.
 
-## Installation
+---
 
-1. **Clone the Repository**:
+## 🚀 Features
 
-   ```sh
+- ✅ **Image & Video Analysis**: Upload images or videos to identify the maturity stage of coconuts (Tender, Middle, Dry).
+- 🎦 **Live Webcam Monitoring**: Detect coconut maturity in real time using your webcam.
+- 🤖 **Advanced Detection Algorithms**: Leverages robust machine learning and deep learning models for accurate results.
+- 📊 **User-Friendly Interface**: Simple and interactive UI built with HTML/CSS and Bootstrap.
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer           | Technologies                             |
+|------------------|------------------------------------------|
+| **Frontend**     | HTML5, CSS3, JavaScript, Bootstrap       |
+| **Backend**      | Python, Flask                            |
+| **ML/DL Models** | YOLOv8 (Instance Segmentation), OpenCV   |
+| **Deployment**   | Local Server (Flask)                     |
+
+---
+
+## 📦 Installation
+
+1. **Clone the Repository**  
+   ```bash
    git clone https://github.com/pravee1892000/Coconut-Maturity-Detection-using-ML-approaches-flask.git
-   cd your-repository-name
-   python app.py
-
+   cd Coconut-Maturity-Detection-using-ML-approaches-flask
